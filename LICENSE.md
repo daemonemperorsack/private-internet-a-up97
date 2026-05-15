@@ -1,4 +1,4 @@
-
+smart CyberGhost Service | L2TP-support + NAT-firewall offers the most advanced CyberGhost service, with L2TP-support and NAT-firewall. Ideal for users who value privacy and
 
 
 
